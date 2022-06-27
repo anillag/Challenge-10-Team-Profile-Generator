@@ -14,7 +14,7 @@ A CLI team generator, built on npm using Inquirer.
 
 From the command line, type "node index". Follow the prompts to submit information to the application for inclusion in the "team.html" file that will be created, inside the "dist" folder. A video walkthrough demonstrating usage and behavior is below:
 
-https://drive.google.com/file/d/1RNbISErxo24aMRaqq0jSSma3l_RFaKmc/view
+https://drive.google.com/file/d/1q8Rf6vjaFiilvBEBfHRqEWLrWZ1CJ__7/view
 
 ## Contributors
 
